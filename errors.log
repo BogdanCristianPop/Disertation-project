@@ -1,0 +1,47 @@
+20210818 12:08:31 INFO  [main] hms.HMS HMS.java47 - Welcome to the Inventory Management System!
+20210818 12:08:31 INFO  [main] hms.HMS HMS.java52 - Which entity would you like to use?
+20210818 12:08:31 INFO  [main] domain.Domain Domain.java27 - GUEST: Information about customers
+20210818 12:08:31 INFO  [main] domain.Domain Domain.java27 - ROOM: Individual Items
+20210818 12:08:31 INFO  [main] domain.Domain Domain.java27 - RESERVATION: Purchases of items
+20210818 12:08:31 INFO  [main] domain.Domain Domain.java27 - STOP: To close the application
+20210818 12:08:51 INFO  [main] hms.HMS HMS.java82 - What would you like to do with guest:
+20210818 12:08:51 INFO  [main] controller.Action Action.java34 - CREATE: To save a new entity into the database
+20210818 12:08:51 INFO  [main] controller.Action Action.java34 - READ: To read an entity from the database
+20210818 12:08:51 INFO  [main] controller.Action Action.java34 - UPDATE: To change an entity already in the database
+20210818 12:08:51 INFO  [main] controller.Action Action.java34 - DELETE: To remove an entity from the database
+20210818 12:08:51 INFO  [main] controller.Action Action.java34 - RETURN: To return to domain selection
+20210818 12:08:58 INFO  [main] controller.GuestController GuestController.java69 - What would you like to do:
+20210818 12:08:58 INFO  [main] controller.GuestController GuestController.java70 - 1. Add CSV file with multiple guests
+20210818 12:08:58 INFO  [main] controller.GuestController GuestController.java71 - 2. Update a particular guest
+20210818 12:09:07 INFO  [main] hms.HMS HMS.java82 - What would you like to do with guest:
+20210818 12:09:07 INFO  [main] controller.Action Action.java34 - CREATE: To save a new entity into the database
+20210818 12:09:07 INFO  [main] controller.Action Action.java34 - READ: To read an entity from the database
+20210818 12:09:07 INFO  [main] controller.Action Action.java34 - UPDATE: To change an entity already in the database
+20210818 12:09:07 INFO  [main] controller.Action Action.java34 - DELETE: To remove an entity from the database
+20210818 12:09:07 INFO  [main] controller.Action Action.java34 - RETURN: To return to domain selection
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=1, firstName=Kate, lastname=Banderas, DOB=15/01/1989, passportNumber=57370735, membershipNumber=MEB3HA4EL, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=2, firstName=Aravind, lastname=Appelhof, DOB=13/11/1984, passportNumber=464860546, membershipNumber=M990Q9PX7, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=3, firstName=Lallie, lastname=Clifton, DOB=7/1/1990, passportNumber=808579250, membershipNumber=MU6X0H973, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=4, firstName=Ksyusha, lastname=Paul, DOB=7/10/1991, passportNumber=659345993, membershipNumber=MGEU9QURZ, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=5, firstName=Gordana, lastname=Karppinen , DOB=15/02/1990, passportNumber=257709481, membershipNumber=M1CRSY51M, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=6, firstName=Reidar, lastname=Devine, DOB=18/02/2003, passportNumber=143652612, membershipNumber=MXAN1XQBI, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=7, firstName=Michelangelo, lastname=Achilles, DOB=16/11/1984, passportNumber=315781511, membershipNumber=MIHKA5AV4, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=8, firstName=Selena, lastname=Morello, DOB=1/1/1987, passportNumber=701023266, membershipNumber=M4FHJDV50, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=9, firstName=Barclay, lastname=Raimondi, DOB=25/09/1986, passportNumber=736880054, membershipNumber=MPDESCFPW, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=10, firstName=Karlijn, lastname=Forest , DOB=26/09/1999, passportNumber=793592923, membershipNumber=MBKB2L0ZJ, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=11, firstName=Gayathri, lastname=Van Daalen, DOB=19/10/1990, passportNumber=370457962, membershipNumber=M6I8BTBJF, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=12, firstName=Uliana, lastname=Troy, DOB=10/5/1989, passportNumber=147104872, membershipNumber=MRP5K1WT1, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=13, firstName=Kambujiya, lastname=Van der Aart, DOB=18/03/1987, passportNumber=330170458, membershipNumber=MDN2T0GDX, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=14, firstName=Yehoyakim, lastname=Santana, DOB=24/11/1988, passportNumber=345741281, membershipNumber=MYLZ381NT, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=15, firstName=Appius, lastname=Kawaguchi, DOB=27/05/1992, passportNumber=390987823, membershipNumber=MTSWCHM7G, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=16, firstName=Birgit, lastname=Kuhn, DOB=8/5/2001, passportNumber=244461529, membershipNumber=MFQTVP6HC, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=17, firstName=Lisa, lastname=Laursen, DOB=15/01/1994, passportNumber=111048777, membershipNumber=M1OQ4OR0Y, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=18, firstName=Berny, lastname=Ježek, DOB=13/01/1990, passportNumber=219301535, membershipNumber=MMVDDW2BU, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=19, firstName=Magdalena, lastname=Vasilyev, DOB=10/1/1998, passportNumber=300553703, membershipNumber=M8TAM4MUQ, isActive=false]
+20210818 12:09:15 INFO  [main] controller.GuestController GuestController.java36 - Guest [id=20, firstName=Alayah, lastname=Mortensen, DOB=11/5/1995, passportNumber=378683672, membershipNumber=M5BCD4SGC, isActive=false]
+20210818 12:09:15 INFO  [main] hms.HMS HMS.java82 - What would you like to do with guest:
+20210818 12:09:15 INFO  [main] controller.Action Action.java34 - CREATE: To save a new entity into the database
+20210818 12:09:15 INFO  [main] controller.Action Action.java34 - READ: To read an entity from the database
+20210818 12:09:15 INFO  [main] controller.Action Action.java34 - UPDATE: To change an entity already in the database
+20210818 12:09:15 INFO  [main] controller.Action Action.java34 - DELETE: To remove an entity from the database
+20210818 12:09:15 INFO  [main] controller.Action Action.java34 - RETURN: To return to domain selection
